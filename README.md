@@ -1,1 +1,1 @@
-# Assignment 1
+# Words Counter
